@@ -2,7 +2,7 @@
 /*
 Plugin Name: Divide by Two Slider
 Description: A lightweight slider that simply works.
-Version: 1.0.0
+Version: 1.0.1
 Author: Divide by Two
 Plugin URI: https://github.com/dividebytwo-dev/divide-by-two-slider
 GitHub Plugin URI: https://github.com/dividebytwo-dev/divide-by-two-slider
