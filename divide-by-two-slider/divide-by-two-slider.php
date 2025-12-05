@@ -1,10 +1,13 @@
 <?php
-/**
- * Plugin Name: Divide by Two Slider
- * Description: A lightweight slider that simply works.
- * Version: 1.0.0
- * Author: Divide by Two
- */
+/*
+Plugin Name: Divide by Two Slider
+Description: A lightweight slider that simply works.
+Version: 1.0.0
+Author: Divide by Two
+Plugin URI: https://github.com/dividebytwo-dev/divide-by-two-slider
+GitHub Plugin URI: https://github.com/dividebytwo-dev/divide-by-two-slider
+GitHub Branch: main
+*/
 
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly
